@@ -1,0 +1,1 @@
+# steamgift-auto-entry
