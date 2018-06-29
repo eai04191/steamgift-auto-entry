@@ -33,7 +33,16 @@ If points are missing, you can not enter. There is no problem.
 3. Replace the `PHPSESSID` in line 2.
 4. Set a timer. It will be called "Project Trigger". It's best to set it to 30 minutes or 15 minutes.
 
-That's it! Simple, isn't it?
+Next, Open [Steamgifts search filter setting](https://www.steamgifts.com/account/settings/giveaways).
+
+It is best to set as follows.
+
+![Screenshot](https://i.imgur.com/JjU2bY5.png)
+
+Remember to raise your own Contributor level to increase the number of Giveaways you can participate in.
+
+
+That's it!
 
 
 ## Usage
