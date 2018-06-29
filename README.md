@@ -1,4 +1,4 @@
-Steamgift Auto Entry
+Steamgifts Auto Entry
 ===
 
 [![forthebadge](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://forthebadge.com)
